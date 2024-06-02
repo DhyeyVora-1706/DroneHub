@@ -6,6 +6,22 @@
 
 This project is a backend system designed for managing drone operations across multiple sites. Users can manage drones, sites, and missions, facilitating efficient drone-based surveying and mapping. This system allows for CRUD operations on user accounts, drones, missions, and sites, with additional features for categorizing and filtering missions.
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Core Functionalities](#core-functionalities)
+4. [Technologies Used](#technologies-used)
+5. [Installation](#installation)
+6. [Configuration](#configuration)
+7. [Usage](#usage)
+8. [Contributors](#contributors)
+
+
+
+## Introduction
+
+This backend project enables users to manage multiple drones, sites, and missions, ensuring effective and automated surveying and mapping. The project incorporates authentication, data management, and advanced filtering functionalities to support user operations.
 
 ## Features
 
