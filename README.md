@@ -1,7 +1,5 @@
 # DroneHub
 
-# FlytBase Backend Developer Project
-
 ## Project Overview
 
 This project is a backend system designed for managing drone operations across multiple sites. Users can manage drones, sites, and missions, facilitating efficient drone-based surveying and mapping. This system allows for CRUD operations on user accounts, drones, missions, and sites, with additional features for categorizing and filtering missions.
