@@ -1,5 +1,11 @@
 # DroneHub
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FFB400?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ## Project Overview
 
 This project is a backend system designed for managing drone operations across multiple sites. Users can manage drones, sites, and missions, facilitating efficient drone-based surveying and mapping. This system allows for CRUD operations on user accounts, drones, missions, and sites, with additional features for categorizing and filtering missions.
@@ -73,12 +79,6 @@ This backend project enables users to manage multiple drones, sites, and mission
 - *Postman*: API testing tool
 - *MongoDB*: Database
 - *JWT*: Authentication
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-FFB400?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Installation
 
